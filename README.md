@@ -1,2 +1,2 @@
 # syandell117.github.io
-Here is my personal developer website
+Welcome to my developer website
