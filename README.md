@@ -1,23 +1,21 @@
 # syandell117.github.io
 
-This repo now includes a minimal React + Vite setup for a modern frontend site.
+This repository contains a React + Vite site for a personal homepage.
 
-## Local development
+## Development
 
 1. Install Node.js from https://nodejs.org/
-2. In the repo folder, run:
+2. In the repository root, run:
    - `npm install`
    - `npm run dev`
-3. Open the local URL shown by Vite (usually http://localhost:3000)
 
-## Build for production
+## Production build
 
 - Run `npm run build`
-- The output will be generated in the `dist/` folder
+- The generated files are placed in the `dist/` folder
 
-## Deploy to GitHub Pages
+## Deployment
 
-If you want to publish the built app:
+The site is configured to deploy to GitHub Pages using the workflow in [.github/workflows/deploy.yml](.github/workflows/deploy.yml).
 
-- Build the app with `npm run build`
-- Upload the contents of `dist/` to the GitHub Pages branch or configure a deployment workflow
+No localhost or private development URLs are included in the public documentation.
