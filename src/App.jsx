@@ -1,7 +1,7 @@
-import WelcomeCard from './components/WelcomeCard';
+import TestScene from './components/TestScene';
 
 function App() {
-  return <WelcomeCard />;
+  return <TestScene />;
 }
 
 export default App;

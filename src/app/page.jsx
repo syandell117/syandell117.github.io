@@ -1,5 +1,5 @@
-import WelcomeCard from '../components/WelcomeCard';
+import SceneClient from '../components/SceneClient';
 
 export default function HomePage() {
-  return <WelcomeCard />;
+  return <SceneClient />;
 }
